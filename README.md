@@ -5,6 +5,7 @@ A clean and modern login page design. This repository focuses on form styling, i
 ## Technologies
 
 - **HTML5**: Structured with accessibility in mind.
+
 - **CSS3**: Custom styling focusing on transitions and focus effects.
 
 ## Features
